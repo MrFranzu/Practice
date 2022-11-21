@@ -38,7 +38,7 @@ class Gowther():
         print("Goat")
   
     def weapon(self):
-        print("Immortal")
+        print("Twin Bow Herritt")
 
 class Merlin():
     def sin(self):
