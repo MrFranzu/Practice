@@ -93,5 +93,5 @@ class Deku(AllMight):#current one for all holder
       
     #currently can use quirks   
 d = Deku("DangerSense", "FaJin", "Smokescreen", "Levitate", "Blackwhip")
-print(d.getDanger_sense(), d.getFajin(), d.getSmokescreen, d.getLevitate, d.getBlackwhip())
+print(d.getDanger_sense(), d.getFajin(), d.getSmokescreen(), d.getLevitate(), d.getBlackwhip())
 
